@@ -1,0 +1,21 @@
+CODIGO,CLIENTE,PRODUCTO,CANTIDAD,PRECIO
+001,Hernan,Ibuprofeno,7,42.63
+002,Lucas,Ibupirac,3,56
+003,Maria,Aspirina,4,13.46
+004,Hector,Diclofenac,1,75.48
+005,Ben,Cafiaspirina,3,126
+006,Belen,Penicilina,1,180
+007,Alan,Amoxicilina,8,350
+008,Florencia,Alplax,6,34.34
+009,Luisa Maria,Paracetamol,1,56
+010,Ludmila,Mucosolban,4,13.46
+011,Ignacio,Amoxicilina,1,75.48
+012,Benjamin,Budesonida,3,126
+013,Clotilde,Cefalexina,5,180
+014,Jazmin,Curaplus,3,37.68
+015,Leandro,Alplax,6,29.67
+016,Vanina,Ibuprofeno,1,56
+017,Analia,Mucosolban,4,68.63
+018,Eduardo,Amoxicilina,1,86.12
+019,Leonardo,budesonida,8,126
+020,Camila,Cefoxitina,1,180
