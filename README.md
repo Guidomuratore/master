@@ -1,6 +1,6 @@
 # ExamenParcial-Paradigmas-EDD
 
-PharmaDino
+FarmaMura
 ==========
 
 INTRODUCCIÓN:
